@@ -5,7 +5,7 @@ I started my computer science journey digging through open-source configs for vi
 
 *   🌍  I'm based in Rochester, NY and Brooklyn, NY
 *   ✉️  You can contact me at [mliu69@u.rochester.edu](mailto:mliu69@u.rochester.edu)
-*   🧠  I'm learning Data structures and algorithms
+*   🧠  I'm learning Mobile App development (Android) and dsa
 *   🤝  I'm open to collaborating on any projects!
 *   ⚡  I'm open to ranting about economics.
 <p align="left">
